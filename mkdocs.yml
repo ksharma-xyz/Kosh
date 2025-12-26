@@ -1,4 +1,5 @@
 site_name: Kosh
+site_url: https://ksharma-xyz.github.io/Kosh/
 site_description: Treasury of Knowledge for Android Kotlin + Compose
 theme:
   name: material
@@ -39,4 +40,3 @@ nav:
   - Topics:
     - Managing State: docs/Managing-State.md
     - Navigation: docs/Navigation.md
-
