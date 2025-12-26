@@ -38,5 +38,5 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Topics:
-    - Managing State: docs/Managing-State.md
-    - Navigation: docs/Navigation.md
+    - Managing State: Managing-State.md
+    - Navigation: Navigation.md
