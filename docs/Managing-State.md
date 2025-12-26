@@ -1,7 +1,4 @@
----
-layout: default
-title: Managing State
----
+# Managing State
 
 In Jetpack Compose, managing state is about deciding how long a piece of information should "live."
 
