@@ -1,3 +1,8 @@
+---
+layout: default
+title: Managing State
+---
+
 In Jetpack Compose, managing state is about deciding how long a piece of information should "live."
 
 ### remember vs rememberSaveable
@@ -92,4 +97,3 @@ fun PersonProfile() {
   handle [[02:46](http://www.youtube.com/watch?v=o4qbOO2XLZU&t=166)].
 
 [Watch: Creating a Custom Saver in Jetpack Compose](http://www.youtube.com/watch?v=o4qbOO2XLZU)
-

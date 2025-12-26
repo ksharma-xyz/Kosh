@@ -4,4 +4,4 @@ This repository is a collection of android Kotlin + Compose knowledge to revise,
 
 ## Topics
 
-- [Managing State](docs/Managing%20State.md)
+- [Managing State](docs/Managing-State.md)
